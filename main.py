@@ -1,1 +1,1 @@
-print('Hello Dhruv here and just checking the Git functions')
+print('Hello Dhruv here')
